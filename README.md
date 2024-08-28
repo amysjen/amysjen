@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amysjen&label=Profile%20views&color=0e75b6&style=flat" alt="amysjen" /> </p>
 
-- 🔭 I’m currently working on [improving my portfolio](https://amyjen.com/)
+🔭 I’m currently working on [improving my portfolio](https://amyjen.com/)
 
-- 🌱 I’m currently learning **React.js, Tailwind, and UI/UX**
+🌱 I’m currently learning **React.js, Tailwind, and UI/UX**
 
-- 👨‍💻 All of my projects are available at [https://amyjen.com/](https://amyjen.com/)
+👨‍💻 All of my projects are available at [https://amyjen.com/](https://amyjen.com/)
 
-- 📫 How to reach me **amysuejen@gmail.com**
+📫 How to reach me **amysuejen@gmail.com**
 
-- ⚡ Fun fact **I'm a sucker for cutesy aesthetics and all kinds of noodles**
+⚡ Fun fact **I'm a sucker for cutesy aesthetics and all kinds of noodles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
