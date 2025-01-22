@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on [improving my portfolio](https://amyjen.com/)
 
-🌱 I’m currently learning **React.js, Tailwind, and UI/UX**
+🌱 I’m currently learning **React.js, Python, and UI/UX**
 
 👨‍💻 All of my projects are available at [https://amyjen.com/](https://amyjen.com/)
 
